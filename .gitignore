@@ -1,9 +1,9 @@
-# Adding config.py file.
+# Files to ignore
 config.py
-
-# Adding additional files.
 API_practice.ipynb
 random_numbers.ipynb
+Weather_Database/config.py
+Vacation_Search/config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
